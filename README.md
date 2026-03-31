@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irgivensa12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irgivensa12&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandrasekhara03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandrasekhara03&layout=compact&theme=algolia"/>
 </a>
 </p>
 
@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhara-97a2ba296)
 
-### Play with me 🎮
-
+### Play with me### Play with me 🎮
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandrasekhara03/chandrasekhara03/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandrasekhara03/chandrasekhara03/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chandrasekhara03/chandrasekhara03/output/pacman-contribution-graph.svg">
+</picture>
 ⚡ Fun fact: **AN EXPERT IN EVERYTHING!**
