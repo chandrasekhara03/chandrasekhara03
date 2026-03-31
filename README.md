@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhara-97a2ba296)
 
-### Play with me### Play with me 🎮
+### Play with me 🎮
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandrasekhara03/chandrasekhara03/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandrasekhara03/chandrasekhara03/output/pacman-contribution-graph.svg">
